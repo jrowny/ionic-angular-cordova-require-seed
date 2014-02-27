@@ -1,7 +1,7 @@
 /*
     File: main.js
-    Author: Jonathan Rowny (jrowny@gmail.com)
-    Description: Loads up all the things you need to make a fun contacts app with Angular
+    Author: Jonathan Rowny
+    Description: Loads up all the things you need to make a fun app with Angular, Ionic, and Cordova
 */
 require.config({
     paths: {
